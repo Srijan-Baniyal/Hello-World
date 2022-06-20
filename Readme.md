@@ -10,5 +10,4 @@ GitHub is a calling card. The projects on GitHub are most often our portfolio. W
 nice-looking non-profit projects, a presentation of our achievements in a form of repositories is one of the best way to get visible to the recruiters.
 A preparation of several demonstration projects we want to show off during the interview works the best. If we are just learning and we drop our training
 projects there, let's pay attention to their good description. Even a non-technical recruiter will be able to recognize the technologies we touched,
-
-and check if it goes in line with a candidate's profile he's/she's looking fo
+and check if it goes in line with a candidate's profile he's/she's looking for.....
